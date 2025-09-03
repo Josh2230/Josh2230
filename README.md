@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Joshua Lee, and I am currently pursuing a degree in Computer Science at Bucknell University. I previously interned as a Data Scientist at MITRE, where I applied artificial intelligence to enhance and modernize legacy systems. In addition, I spent two summers as a Research Assistant, developing and implementing machine learning algorithms on swipe-based biometric data with a focus on ensuring fairness and reducing bias.
 <!--
 **Josh2230/Josh2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
