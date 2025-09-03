@@ -10,14 +10,16 @@ My name is Joshua Lee, and I am currently pursuing a degree in Computer Science 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
 </a>
 
+- 🔭 I’m currently working on a full stack application that organizes/manages Google Drive
+- 🌱 I worked at MITRE as a Data Scientist
+- 👯 I am working towards a bachelor's degree in Computer Science at Bucknell University.
 <!--
 **Josh2230/Josh2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a full stack application that organizes/manages Google Drive
+- 🌱 I worked at MITRE as a Data Scientist
+- 👯 I am working towards a bachelor's degree in Computer Science at Bucknell University.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
