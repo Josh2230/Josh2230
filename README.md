@@ -6,6 +6,10 @@ My name is Joshua Lee, and I am currently pursuing a degree in Computer Science 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
+<a href="mailto:jjl032@bucknell.edu">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+</a>
+
 <!--
 **Josh2230/Josh2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
