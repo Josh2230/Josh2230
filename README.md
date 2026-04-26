@@ -1,7 +1,9 @@
 ## Hi there 👋
-My name is Joshua Lee, and I am currently pursuing a degree in Computer Science at Bucknell University. I previously interned as a Data Scientist at MITRE, where I applied artificial intelligence to enhance and modernize legacy systems. In addition, I spent two summers as a Research Assistant, developing and implementing machine learning algorithms on swipe-based biometric data with a focus on ensuring fairness and reducing bias.
+My name is Joshua Lee, and I am currently pursuing a degree in Computer Science at Bucknell University. I am very interested in autonomous systems, AI/ML, sensors/tracking, and startups. 
 
-- I worked at MITRE as a Data Scientist
+- I am an incoming pathways software engineer at Northrop Grumman focused on missile defense. 
+- I worked at MITRE as a Data science intern, where I implemented LLMs into legacy systems to process system requirements for counter-UAS (unmanned aircraft systems).
+- I was a research assistant for two summers, focused on swipe-based biometrics and gender bias.
 - I am working towards a bachelor's degree in Computer Science at Bucknell University.
   
 # Socials 
