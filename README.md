@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Joshua Lee, and I am currently pursuing a degree in Computer Science at Bucknell University. I am very interested in counter swarm software, AI/ML, sensors/tracking, and startups. 
 
-- I am an incoming pathways software engineer at Northrop Grumman focused on missile defense. 
+- I am a pathways software engineer at Northrop Grumman focused on missile defense. 
 - I worked at MITRE as a Data science intern, where I implemented LLMs into legacy systems to process system requirements for counter-UAS (unmanned aircraft systems).
 - I was a research assistant for two summers, focused on swipe-based biometrics and gender bias.
 - I am working towards a bachelor's degree in Computer Science at Bucknell University.
